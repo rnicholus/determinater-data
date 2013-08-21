@@ -6,7 +6,7 @@ Storage for data files used by [determinator runtime](https://github.com/rnichol
 <br/>
 ### Acknowledgements
 #### signatures/signatures.json
-© 2002-2013, Gary C. Kessler.
+© 2002-2013, Gary C. Kessler.   
 Adapted from ["File Signatures Table"](http://www.garykessler.net/library/file_sigs.html)
 and customsigs_GCK.txt in the ["FileSigs" zip](http://www.garykessler.net/software/FileSigs_20130516.zip).
 
